@@ -1,0 +1,13 @@
+{
+  "name": "com.YUAN.SceneManager]",
+  "version": "1.0.0",
+  "displayName": "YUAN 工具包 : 場景切換器 ",
+  "description": "切換場景",
+  "unity": "2022.3",
+
+  "author": {
+    "name": "YUAN",
+    "email": "iamm1129@gmail.com",
+    "url": ""
+  }
+}
